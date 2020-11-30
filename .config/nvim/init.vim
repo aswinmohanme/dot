@@ -32,7 +32,7 @@ Plug 'mhinz/vim-mix-format'
 
 Plug 'pangloss/vim-javascript'
 Plug 'leafgarland/typescript-vim'
-Plug 'MaxMEllon/vim-jsx-pretty'
+Plug 'peitalin/vim-jsx-typescript'
 
 Plug 'dart-lang/dart-vim-plugin'
 
